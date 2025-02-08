@@ -1,7 +1,7 @@
 
 # Student Name
-Dinesh Dalip
-Jay Bharatkumar Panchal
+Dinesh Dalip || 
+Jay Bharatkumar Panchal || 
 Yash Sanjaybhai Jadav
 
 # UN SDG(s)

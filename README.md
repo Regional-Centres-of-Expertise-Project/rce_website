@@ -5,8 +5,8 @@ Jay Bharatkumar Panchal ||
 Yash Sanjaybhai Jadav
 
 # UN SDG(s)
-MAIN: QUALITY EDUCATION ( GOAL 4 )
-SECONDLY: ALL
+Regional Centres of Expertise; 
+SDG Main: Quality Education (4) , Other:  17, 12
 
 # Project idea
 We are creating an improved digital platform for RCE Saskatchewan to enhance the visibility, accessibility, and engagement of SDG-focused projects for the Saskatchewan community. The platform will feature categorization of projects based by location and SDG, data visualization tools, making it easier to discover, support, and collaborate on sustainability projects efficiently.

@@ -4,9 +4,9 @@ Dinesh Dalip ||
 Jay Bharatkumar Panchal || 
 Yash Sanjaybhai Jadav
 
-# Planning Phase Vlog 1: 
+# Project Requirements Gathering : 
   https://youtu.be/MMNysrUQMkk
-# Demo 1 - MVP1
+# Project Demo 1 - MVP 1
  https://youtu.be/aZBfP1lrPF4 
 # UN SDG(s)
 Regional Centres of Expertise; 
